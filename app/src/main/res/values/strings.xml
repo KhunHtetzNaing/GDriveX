@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ဂူးဂဲလ်ဒရိုက်ဗီဒီယိုဖက်ကာ</string>
+    <string name="dev_name">ခွန်ထက်နိုင်ဖန်တီးထားပါသည်။</string>
+    <string name="edit_query_hint">ဂူးဂဲလ်ဒရိုက်လိပ်စာထည့်ရန်</string>
+    <string name="get_direct_url">တိုက်ရိုက်လိပ်စာရယူရန်</string>
+    <string name="please_wait">ခဏစောင့်ပါ…</string>
+    <string name="done">ရပါပြီ ✅</string>
+    <string name="what_do_you_want">ဘာလုပ်ချင်ပါသလဲ ?</string>
+    <string name="play">ဖွင့်ကြည့်မယ်</string>
+    <string name="download">ဒေါင်းယူမယ်</string>
+    <string name="empty">ဘာမှမရှိပါ။</string>
+    <string name="please_input_valid_url">Google Drive လင့်ကိုမှန်ကန်စွာထည့်ပေးပါ။</string>
+    <string name="ok">OK</string>
+    <string name="get_source_code">ရင်းမြစ်ကုဒ်ရယူရန်</string>
+    <string name="source_code_url">https://github.com/KhunHtetzNaing/GDriveX</string>
+</resources>
